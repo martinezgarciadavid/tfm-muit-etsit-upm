@@ -13,3 +13,7 @@
 **Tutor**: Carlos Mariano Lentisco Sánchez
 
 **Departamento**: Departamento de Ingeniería de Sistemas Telemáticos (DIT)
+
+<div align="center"><h1>Contacto para obtener información adicional</h1></div>
+
+Si desea obtener información adicional sobre los desarrollos realizados en este Trabajo Fin de Máster (TFM) y descritos en su memoria, puede ponerse en contacto a través de la siguiente dirección de correo electrónico: <gi.giros@upm.es>.
