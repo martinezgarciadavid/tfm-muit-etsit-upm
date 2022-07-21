@@ -14,6 +14,8 @@
 
 **Departamento**: Departamento de Ingeniería de Sistemas Telemáticos (DIT)
 
+**Enlace a la memoria (Archivo Digital de la UPM)**: <https://oa.upm.es/71337/>
+
 <div align="center"><h1>Contacto para obtener información adicional</h1></div>
 
-Si desea obtener información adicional sobre los desarrollos realizados en este Trabajo Fin de Máster (TFM) y descritos en su memoria, puede ponerse en contacto a través de la siguiente dirección de correo electrónico: <gi.giros@upm.es>.
+Algunos desarrollos realizados en el Trabajo Fin de Máster (TFM) y enunciados en la memoria no se encuentran actualmente disponibles en este repositorio. Si desea obtener información adicional sobre estos desarrollos, así como sobre otros recursos enlazados a este repositorio desde la memoria y que tampoco se encuentran disponibles, puede ponerse en contacto a través de la siguiente dirección de correo electrónico: <gi.giros@upm.es>.
